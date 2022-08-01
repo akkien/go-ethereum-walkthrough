@@ -1,3 +1,3 @@
 # go-ethereum-walkthrough
 
-Check Wiki page
+Please visit Wiki page
